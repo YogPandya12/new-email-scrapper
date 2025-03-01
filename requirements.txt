@@ -1,0 +1,6 @@
+requests-html
+lxml_html_clean
+beautifulsoup4 
+flask
+pandas
+openpyxl
